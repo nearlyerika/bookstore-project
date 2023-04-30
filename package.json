@@ -1,0 +1,26 @@
+{
+  "name": "bookstore-project",
+  "version": "1.0.0",
+  "description": "this is leaning/studying project. it simulates the  implementation of a basic app for a bookstore. it has a .json containing the store's book's info, an index.js for the main modules and functions, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearlyerika/bookstore-project.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "leaning",
+    "basics",
+    "fundamentals"
+  ],
+  "author": "nearlyerika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nearlyerika/bookstore-project/issues"
+  },
+  "homepage": "https://github.com/nearlyerika/bookstore-project#readme"
+}
