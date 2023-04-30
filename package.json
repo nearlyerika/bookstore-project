@@ -1,7 +1,7 @@
 {
   "name": "bookstore-project",
   "version": "1.0.0",
-  "description": "this is leaning/studying project. it simulates the  implementation of a basic app for a bookstore. it has a .json containing the store's book's info, an index.js for the main modules and functions, etc.",
+  "description": "this is a leaning/studying project. it simulates the implementation of a basic app for a bookstore. it has a .json containing the store's book's info, an app.js for the main modules and functions, etc.",
   "main": "app.js",
   "scripts": {
     "test": "test"
